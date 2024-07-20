@@ -6,24 +6,21 @@ Welcome to the official GitHub organization for MerQri! We're on a mission to re
 
 - [MerQri](#merqri)
   - [Table of Contents](#table-of-contents)
-  - [About Us](#about-us)
   - [Projects](#projects)
   - [Accessing Private Repositories](#accessing-private-repositories)
   - [Getting Started](#getting-started)
   - [Contributions](#contributions)
   - [Contact](#contact)
 
-## About Us
-
-MerQri is dedicated to making the moving process for people moving to new locations seamless. Our team is passionate about using React, Flutter and Django to achieve this dream. The fact that you're here means that you believe in the dream and you also want to make it a reality.
+MerQri is dedicated to making the moving process for people moving to new locations seamless. Our team is passionate about using React, React Native and Django to achieve this dream. The fact that you're here means that you believe in the dream and you also want to make it a reality.
 
 ## Projects
 
 Here are some of the projects we're currently working on:
 
-- **[Merqri Mobile App]**: *[This project is focused on the development of the UI for the mobile app]*
-- **[Merqri Landing Page]**: *[This project is focused on the development of the landing for the startup.]*
-- **[Merqri Backend System]**: *[This is focused on building the RESTful APIs that will serve the mobile application as well as any other iterations of the application]*
+- **[Merqri Mobile App]**: <https://github.com/MerQri-Org/merqri-mobile>
+- **[Merqri Landing Page]**: <https://github.com/MerQri-Org/merqri_landing_page>
+- **[Merqri Backend System]**: <https://github.com/MerQri-Org/MerQri-Backend>
 
 ## Accessing Private Repositories
 
@@ -56,11 +53,11 @@ To gain access to our private repositories, please follow these steps:
 
 3.**Create a branch**: When working on a speific project, always create a branch named after the feature that you want to implement.
 
-4.**Draft a pull request**: After working on your branch, draft a pull request for it to be merged to the `main` branch which serves as the production branch for repository. Your pull request will be reviewed by your team lead.
+4.**Draft a pull request**: After working on your branch, draft a pull request for it to be merged to the `main` branch which serves as the production branch for repository. Your pull request will be reviewed by your team lead. For more clarification on how code pushes work here at MerQri check out this doc [here](/code-push.md).
 
 ## Contributions
 
-Tasks/issues are assigned to team members via Jira. If during further review a bug is discovered, an issue can be created in that repository and assigned to team members as needed.
+Tasks/issues are assigned to team members via Trello. If during further review a bug is discovered, an issue can be created in that repository and assigned to team members as needed.
 
 ## Contact
 
